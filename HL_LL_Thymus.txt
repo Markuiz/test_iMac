@@ -1,4 +1,4 @@
-Student	Condition	Stem_length_(cm)	Leaf_surface_(µm^2)	LAR_(µm^2/g)	FW_Root_(g)	FW_Shoot_(g)	FW_Total_Plant_(g)	FW_Shoot/FW_Root	DW_Root_(g)	DW_Shoot_(g)	DW_Total_Plant_(g)	DW_Shoot/DW_Root
+Student	Condition	Stem_length	Leaf_surface	LAR	FW_Root	FW_Shoot	FW_Total_Plant	ratio_FW_Shoot_FW_Root	DW_Root	DW_Shoot	DW_Total_Plant	ratio_DW_Shoot_DW_Root
 Student01	HL	22,4	75,11	243,31	0,935	2,343	3,278	2,506	0,059	0,250	0,309	0,809
 Student01	HL	28,1	78,86	257,12	0,944	2,556	3,500	2,708	0,060	0,247	0,307	0,804
 Student01	HL	21,5	169,37	302,55	1,366	3,846	5,212	2,816	0,077	0,483	0,560	0,863
